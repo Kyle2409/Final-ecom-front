@@ -1,7 +1,7 @@
 <template>
 <div class="containers">
    <div class="column">
-     <h1 style="color: white">WELCOME BACK PLEASE LOG IN  </h1>
+     <h1 style="color: white">PLEASE LOG IN AS ADMIN </h1>
       <div id="login" class="mt-5">
       <img
         id="profile-img"
